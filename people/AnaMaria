@@ -1,0 +1,57 @@
+<DOCTYPE HTML!>
+<html lang="en">
+    <head>
+        <title> Title of the document </title>
+    </head>
+    <body>
+        <!-- these are headlines --> 
+        <h1>test</h1>
+        <h2>test</h2>
+        <h6>test</h6>
+        
+        <!-- this is text -->
+        <p> 
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </p>
+        
+        <p> 
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        </p>
+        
+        <!-- this is an unordered list -->
+        <ul> 
+            <li>first item</li>
+            <li>second item</li>
+            <li>third item</li>
+            
+        </ul>
+        
+        <!-- this is an ordered list -->
+        <ol> 
+            <li>first item</li>
+            <li>second item</li>
+            <li>third item</li>
+        </ol>
+        
+        <!-- this is an image -->
+        <!-- div is a container -->
+        <div>
+        <img src="honne-tatemae_1.JPG" width=200px />
+        </div>
+        
+        <h1> tables </h1>
+        <table border="2"> 
+            <tr> <!-- table row -->
+                <!-- cells above -->
+                <td> this is a cell</td>
+                <td> this is one, too </td>
+            </tr>
+            <tr> 
+                <td> this is a cell</td>
+                <td> this is one, too </td>
+            </tr>
+        
+        </table>
+     
+    </body>
+</html>
